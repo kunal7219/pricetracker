@@ -58,7 +58,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/kunal7219/pricetracker.git
-cd pricewise
+cd pricetracker
 ```
 
 **Installation**
